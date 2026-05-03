@@ -1,55 +1,61 @@
+# Hi, I'm Walter Frias 👋
 
-👋 Full stack developer Python__TypeScript.
+**Full Stack Developer · Web3**  
+Buenos Aires, Argentina · [walterfrias.dev](https://walterfrias.dev)
+
+Building web2 products and web3 protocols. I bring a visual arts background to every interface I craft.
 
 ---
 
-## 🚀 Proyectos
+## 🚀 Projects
 
-###  Pool de Swap
-Creación e intercambio de tokens ERC20.  
-**Stack:** Solidity · Vite · React · TypeScript · Hardhat · Tailwind · Wagmi  
- [swaperc20.netlify.app](https://swaperc20.netlify.app/)
+**[ERC-20 Token Swap Pool](https://swaperc20.netlify.app/)**  
+Decentralized token exchange with liquidity pool mechanics built from scratch.  
+`Solidity` `Hardhat` `TypeScript` `React` `Vite` `Tailwind` `Wagmi`
 
-###  App de control financiero                                                                                    
-Aplicación fullstack con gráficos, transacciones y reportes.                                                        
-**Stack:** Python · Django · Docker · Nextjs · TypeScript · React · Tailwind · PostgreSQL                                            
- [django-dashboard-financial.vercel.app](https://django-dashboard-financial.vercel.app/)    
- [Backend API](https://django-dashboard-financial.onrender.com/docs)  
-  `docker pull xtsulyts/django_docker_dashboard_financial_backend:latest`  
-  `docker pull xtsulyts/nextjs_docker_dashboard_financial_frontend:latest`  
-  
-###  E-commerce B2C
-Plataforma de ventas online. Carrito, productos, demo funcional.  
-**Stack:** Nodejs · Typescript · Express · React · Vite · Tailwind · Firebase  
- [eshopdevices.netlify.app](https://eshopdevices.netlify.app/)  
- [Backend API](https://nodejs-25258.onrender.com/)  
+**[Financial Dashboard App](https://django-dashboard-financial.vercel.app/)**  
+Fullstack app for income/expense tracking with interactive charts and exportable reports.  
+`Python` `Django` `Docker` `Next.js` `TypeScript` `React` `PostgreSQL`
 
-###  DAO Hackathon                                                                                                
-Participación en DAO ganadora (gestión de consorcios).                                                              
-**Stack:** Solidity · Nextjs · TypeScript · React · Hardhat · Scaffold-ETH                                                  
- [hackatonbuildingdao.vercel.app](https://hackatonbuildingdao.vercel.app/) · 
- [Devpost](https://devpost.com/software/buildingdao-democratic-desicion-making#) 
-  
+**[E-Commerce Platform (B2C)](https://eshopdevices.netlify.app/)**  
+Complete online store with product catalog, shopping cart and checkout flow.  
+`Node.js` `Express` `Firebase` `JavaScript` `React` `Vite` `Tailwind`
 
-## 🛠 Habilidades Tecnicas
+**[DAO — Ethereum Hackathon 🥇 1st Place](https://hackatonbuildingdao.vercel.app/)**  
+Consortium management DAO with on-chain voting, proposals and fund management. Won 1st place at ETH KIPU Latam 2024.  
+`Solidity` `Hardhat` `Scaffold-ETH` `Next.js` `TypeScript`
 
-**Lenguajes:** Python, TypeScript/JavaScript   
-**Frontend:** React, Next.js, Angular, Vite, Tailwind    
-**Backend:** Node.js, ExpressJs, Django, NestJs   
-**Blockchain:** Solidity, Hardhat, Viem, Wagmi, Scaffold-ETH, ERC20/721, Sepolia TesNet, Solana DevNet    
-**Bases de datos:** PostgreSQL, MySQL, Firebase    
-**DevOps y OS:** Docker, Linux, Git/GitHub  
+---
 
+## 🛠 Technical Skills
 
-## 📚 Formación
+| Area | Technologies |
+|------|-------------|
+| Languages | Python, TypeScript, JavaScript |
+| Frontend | React, Next.js, Angular, Astro, Vite, Tailwind CSS |
+| Backend | Django, Flask, Node.js, Express.js, NestJS |
+| Blockchain | Solidity, Hardhat, Scaffold-ETH, Viem, Wagmi, ERC20/ERC721, Anchor (Solana) |
+| Databases | PostgreSQL, MySQL, Firebase |
+| DevOps & OS | Docker, Linux, Git / GitHub |
 
-- Tecnicatura en Desarrollo Web · UNER · 2024–presente
-- +10 certificaciones técnicas · Node, React, Django, Blockchain, UX/UI
+---
 
-## 🌐 English: Intermediate (reading docs, basic conversation)
+## 📚 Education
 
+- **B.Tech in Web Development** · UNER · 2024 – present
+- **Ethereum Developer Pack** · ETH KIPU Latam · 2024 · on-chain certificate
+- **Node.js & React.js** · Talento Tech, Buenos Aires · 2025 · certified
+- **Full Stack Python + Django** · Codo a Codo, Buenos Aires · 2022–2023 · certified
+- **National Teaching Degree in Visual Arts** · ISFA Manuel Belgrano · 2018–2024
 
+🌐 English: Intermediate (actively improving, private lessons 2025)
 
-## 🔗 Conectá conmigo
+---
 
-[LinkedIn](https://www.linkedin.com/in/walter-manuel-frias-61b03244/) · 
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/walterfrias.dev-000?style=flat&logo=astro&logoColor=white)](https://walterfrias.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/walter-frias-61b03244/)
+[![X](https://img.shields.io/badge/@0xWalterFrias-000?style=flat&logo=x&logoColor=white)](https://x.com/0xWalterFrias)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/961479256460906566)
+
