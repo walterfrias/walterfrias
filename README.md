@@ -13,9 +13,9 @@ Building web2 products and web3 protocols. I bring a visual arts background to e
 Decentralized token exchange with liquidity pool mechanics built from scratch.  
 `Solidity` `Hardhat` `TypeScript` `React` `Vite` `Tailwind` `Wagmi`
 
-**[Financial Dashboard App](https://django-dashboard-financial.vercel.app/)**  
-Fullstack app for income/expense tracking with interactive charts and exportable reports.  
-`Python` `Django` `Docker` `Next.js` `TypeScript` `React` `PostgreSQL`
+**[Project Management System](https://integrador-des-app-web.vercel.app/)**  
+Fullstack project management app with role-based access (Admin/Operator), Kanban board, advanced filtering, pagination and CSV export..  
+`Nest.js` `Angular` `Docker` `TypeScript` `TypeORM` `PostgreSQL`
 
 **[E-Commerce Platform (B2C)](https://eshopdevices.netlify.app/)**  
 Complete online store with product catalog, shopping cart and checkout flow.  
